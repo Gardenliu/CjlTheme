@@ -1,0 +1,23 @@
+{
+  "name": "cjl-ui",
+  "version": "1.0.0",
+  "description": "the giraffe theme project files",
+  "main": "index.js",
+  "scripts": {
+    "test": "maketest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gardenliu/CjlTheme.git"
+  },
+  "keywords": [
+    "cjl",
+    "theme"
+  ],
+  "author": "gardenliu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gardenliu/CjlTheme/issues"
+  },
+  "homepage": "https://github.com/Gardenliu/CjlTheme#readme"
+}
